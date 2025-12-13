@@ -14,3 +14,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm a Software Engineer & Machine Learning Specialist
+
+🚀 I’m a **Software Engineer specialized in Machine Learning**, holding a **Master’s degree in Machine Learning**.  
+I’m passionate about building **intelligent, data-driven solutions** and continuously exploring new technologies at the intersection of **AI, software engineering, and creative development**.
+
+---
+
+## 🧠 About Me
+
+- 🎓 Master’s degree in **Machine Learning**
+- 🤖 Strong interest in **designing, training, and deploying ML models**
+- 🛠️ Experienced in building **end-to-end machine learning solutions**
+- 🎨 Curious about **creative development** and experimenting with new tools, ideas, and paradigms
+- 🌱 Lifelong learner, always exploring **new frameworks, techniques, and concepts**
+
+---
+
+## 💡 What I’m Interested In
+
+- Machine Learning & Deep Learning  
+- Applied AI & Intelligent Systems  
+- Data-driven products & ML pipelines  
+- Creative coding & experimental projects  
+- Learning new technologies and pushing boundaries  
+
+---
+
+## 🧰 Tech Stack (example – customize freely)
+
+**Languages & Tools**  
+- Python, Java
+- NumPy, Pandas, Scikit-learn  
+- PyTorch
+- Git, Docker  
+
+**Machine Learning**  
+- Supervised & Unsupervised Learning  
+- Model Evaluation & Optimization  
+- Feature Engineering  
+- Deployment & MLOps fundamentals  
+
+---
+
+## 🚀 Current Focus
+
+- Building scalable and impactful **machine learning solutions**
+- Improving my skills in **creative development**
+- Exploring new ideas that combine **engineering, AI, and creativity**
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 Open to collaboration on ML and creative tech projects  
+- 🌍 Always happy to discuss ideas, research, or innovative solutions  
+
+---
+
+⭐ *Feel free to explore my repositories and reach out if something sparks your interest!*
+
+
