@@ -41,7 +41,7 @@ I’m passionate about building **intelligent, data-driven solutions** and conti
 
 ---
 
-## 🧰 Tech Stack (example – customize freely)
+## 🧰 Tech Stack
 
 **Languages & Tools**  
 - Python, Java
@@ -64,14 +64,7 @@ I’m passionate about building **intelligent, data-driven solutions** and conti
 - Exploring new ideas that combine **engineering, AI, and creativity**
 
 ---
-
-## 📫 Let’s Connect
-
-- 💼 Open to collaboration on ML and creative tech projects  
-- 🌍 Always happy to discuss ideas, research, or innovative solutions  
-
----
-
+<!--
 ⭐ *Feel free to explore my repositories and reach out if something sparks your interest!*
-
+-->
 
