@@ -25,7 +25,6 @@ I’m passionate about building **intelligent, data-driven solutions** and conti
 - 🎓 Master’s degree in **Machine Learning**
 - 🤖 Strong interest in **designing, training, and deploying ML models**
 - 🛠️ Experienced in building **end-to-end machine learning solutions**
-- 🎨 Curious about **creative development** and experimenting with new tools, ideas, and paradigms
 - 🌱 Lifelong learner, always exploring **new frameworks, techniques, and concepts**
 
 ---
