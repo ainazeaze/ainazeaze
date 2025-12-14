@@ -34,7 +34,6 @@ I’m passionate about building **intelligent, data-driven solutions** and conti
 - Machine Learning & Deep Learning  
 - Applied AI & Intelligent Systems  
 - Data-driven products & ML pipelines  
-- Creative coding & experimental projects  
 - Learning new technologies and pushing boundaries  
 
 ---
