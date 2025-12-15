@@ -31,7 +31,7 @@ I’m passionate about building **intelligent, data-driven solutions** and conti
 
 ## 💡 What I’m Interested In
 
-- Machine Learning & Deep Learning  
+- Machine Learning & Deep Learning & Reinforcement Learning
 - Applied AI & Intelligent Systems  
 - Data-driven products & ML pipelines  
 - Learning new technologies and pushing boundaries  
@@ -57,7 +57,6 @@ I’m passionate about building **intelligent, data-driven solutions** and conti
 ## 🚀 Current Focus
 
 - Building scalable and impactful **machine learning solutions**
-- Improving my skills in **creative development**
 - Exploring new ideas that combine **engineering, AI, and creativity**
 
 ---
