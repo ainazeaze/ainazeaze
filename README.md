@@ -1,18 +1,5 @@
-
-<!--
-**ainazeaze/ainazeaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aina&fontSize=100&animation=fadeIn)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aina-ratefiarivony/)
 # 👋 Hi, I'm a Software Engineer & Machine Learning Specialist
 
 I’m a **Software Engineer specialized in Machine Learning**, holding a **Master’s degree in Machine Learning**.  
@@ -25,15 +12,18 @@ I’m passionate about building **intelligent, data-driven solutions** and conti
 - Lifelong learner, always exploring **new frameworks, techniques, and concepts**
 
 ---
-
 ## Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>  
 
-**Languages & Tools**  
-- Python, Java
-- NumPy, Pandas, Scikit-learn  
-- PyTorch
-- Git, Docker  
-<!--
-⭐ *Feel free to explore my repositories and reach out if something sparks your interest!*
--->
+---
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
