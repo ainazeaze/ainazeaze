@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aina&fontSize=100&animation=fadeIn)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aina-ratefiarivony/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aina-ratefiarivony/)  
 # 👋 Hi, I'm a Software Engineer & Machine Learning Specialist
 
 I’m a **Software Engineer specialized in Machine Learning**, holding a **Master’s degree in Machine Learning**.  
