@@ -1,9 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aina&fontSize=99&animation=fadeIn)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aina-ratefiarivony/)  
-# 👋 Hi, I'm a Software Engineer & Machine Learning Specialist
+# 👋 Hi, I work with Machine Learning & Software Engineering
 
-I’m a **Software Engineer specialized in Machine Learning**, holding a **Master’s degree in Machine Learning**.  
-I’m passionate about building **intelligent, data-driven solutions** and continuously exploring new technologies at the intersection of **AI, software engineering**.
+I hold a **Master’s degree in Machine Learning** and build **ML-driven software systems** through personal and academic projects.  
+I’m particularly interested in **MLOps, deployment, and applied AI**.
 
 ---
 
