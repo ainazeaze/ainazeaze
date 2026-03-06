@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aina&fontSize=99&animation=fadeIn)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aina-ratefiarivony/)  
-# 👋 Hi, I work with Machine Learning & Software Engineering
+# Hi, I work with Machine Learning & Software Engineering
 
 I hold a **Master’s degree in Machine Learning** and build **ML-driven software systems** through personal and academic projects.  
 I’m particularly interested in **MLOps, deployment, and applied AI**.
