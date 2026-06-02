@@ -3,7 +3,7 @@
 # Hi, I work with Machine Learning & Software Engineering
 
 I hold a **Master’s degree in Machine Learning** and build **ML-driven software systems** through professional, academic and personal projects.  
-I’m particularly interested in **applied AI / ML engineering**.
+I’m particularly interested in **applied AI / ML engineering** but also work in more classical Software Engineering with Java, Python, Rust, and JavaScript.
 
 ---
 
