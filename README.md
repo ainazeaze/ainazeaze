@@ -17,6 +17,10 @@ I’m particularly interested in **applied AI / ML engineering** but also work i
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-E57324?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=Javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Typescript-0000FF?style=for-the-badge&logo=Typescript&logoColor=white)
+
+
 
 ### Data & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -27,6 +31,9 @@ I’m particularly interested in **applied AI / ML engineering** but also work i
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
 
 
 ---
