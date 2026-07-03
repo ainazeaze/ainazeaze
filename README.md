@@ -7,7 +7,7 @@ I’m particularly interested in **applied AI / ML engineering** but also work i
 
 ---
 
-- Strong interest in **designing, training, and deploying ML models**
+- Strong interest in **designing, training, and deploying ML models**, with a growing focus on agentic **AI, LLMs, and RAG systems**
 - Experienced in building **end-to-end machine learning solutions**
 - Lifelong learner, always exploring **new frameworks, techniques, and concepts**
 
